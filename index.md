@@ -5,11 +5,14 @@ Programa de Actualización en Ciencia de Datos
 
 ## Cursos
 
-* Programación científica
-* Estadística y visualización de datos
+* Introducción a Ciencia de datos
+    * Introducción a programación científica en ciencia de datos.
+    * Análisis exploratorio de datos y visualización de datos
+    * Introducción a Estadística
+* Algebra lineal y matemática en ciencia de datos
 * Estadística Bayesiana
 * Machine learning
-* Algebra lineal
+
 
 ## Objetivos
 
