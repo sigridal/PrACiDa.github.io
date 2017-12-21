@@ -17,7 +17,7 @@ Profesionales interesados en aprender fundamentos básicos de la Ciencia de Dato
 * Estadística Bayesiana
 * Machine learning
 
-Para más detalles leer la [resolución](http://digesto.unsl.edu.ar/docs/201712/20171218114843_16708.pdf) correspondiente a este especialidad. 
+Para más detalles leer la [resolución](http://digesto.unsl.edu.ar/docs/201712/20171218114843_16708.pdf) correspondiente a esta especialidad. 
 
 ## Admision y Requisitos para cursar
 * Ser egresado de alguna carrera de grado de cuatro o más años.
