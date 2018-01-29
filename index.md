@@ -22,8 +22,8 @@ Para más detalles leer la [resolución](http://digesto.unsl.edu.ar/docs/201712/
 ## Admision y Requisitos para cursar
 * Ser egresado de alguna carrera de grado de cuatro o más años.
 * Para inscribirse deberán [registrarse](http://aluposgrado.unsl.edu.ar/preinscripcion/?__o=) y luego presentar el formulario y la copia del título personalmente en la Secretaría de Posgrado de la UNSL o por mail a <posgradounsl@gmail.com>
-Para el análisis de la admisión se debe enviar por e-mail el CV (no más de 3-5 páginas) en PDF al Coordinador (Juan Manuel Alonso <jmalonso@unsl.edu.ar>). Además, en caso de tener algún inconveniente con la asistencia comunicarse previamente con el Coordinador. 
-* Inscripciones abiertas desde el 10 de febrero de 2018.
+Para el análisis de la admisión se debe enviar por e-mail el CV (no más de 3-5 páginas) en PDF al Coordinador (Juan Manuel Alonso <jmalonso@unsl.edu.ar>). Además, en caso de tener algún inconveniente con la asistencia comunicarse previamente con el Coordinador.
+* **Inscripciones abiertas desde el 10 de febrero de 2018**.
 
 ## Fecha de inicio del primer curso:
 Viernes 9 de marzo de 2018. 9 hs. En el Instituto de Matemática Aplicada San Luis. IMASL
