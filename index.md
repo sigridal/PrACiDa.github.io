@@ -27,7 +27,7 @@ Para el análisis de la admisión se debe enviar por e-mail el CV (no más de 3-
 
 
 ## Fecha de inicio del primer curso:
-Viernes 9 de marzo de 2018. 9 hs. En el Instituto de Matemática Aplicada San Luis. IMASL
+Lunes 12 de marzo de 2018. 9 hs. En el Instituto de Matemática Aplicada San Luis. IMASL
 
 ## Modo de dictado
-Presencial. Los cursos se dictarán durante los días viernes (mañana y tarde) y sábado (a la mañana).
+Presencial. Los cursos se dictarán durante los días lunes (mañana y tarde) y martes (a la mañana).
