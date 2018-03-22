@@ -12,9 +12,9 @@ El objetivo del Programa es capacitar a personas que ya estén usando estas téc
 Profesionales interesados en aprender fundamentos básicos de la Ciencia de Datos y formas de aplicar estos conocimientos a la resolución de problemas prácticos. Ese interés podrá ser más académico en algunos, y más práctico en otros. Por ello esperamos que los candidatos tengan distintas historias académicas y ambiciones de futuro, y haremos un esfuerzo para acomodarlos a todos. 
 
 ## Cursos
-* Introducción a Ciencia de datos
+* [Introducción a Ciencia de datos](https://github.com/PrACiDa/intro_ciencia_de_datos)
 * Algebra lineal y matemática en ciencia de datos
-* Estadística Bayesiana
+* [Estadística Bayesiana](https://github.com/PrACiDa/EBAD)
 * Machine learning
 
 Para más detalles leer la [resolución](http://digesto.unsl.edu.ar/docs/201712/20171218114843_16708.pdf) correspondiente a esta especialidad. 
