@@ -29,5 +29,8 @@ Para el análisis de la admisión se debe enviar por e-mail el CV (no más de 3-
 ## Fecha de inicio del primer curso:
 Lunes 12 de marzo de 2018. 9 hs. En el Instituto de Matemática Aplicada San Luis. IMASL
 
+## Fecha de inicio del segundo curso:
+Lunes 7 de mayo de 2018 a las 8 hs. en el aula de posgrado de Química, UNSL.
+
 ## Modo de dictado
 Presencial. Los cursos se dictarán durante los días lunes (mañana y tarde) y martes (a la mañana).
